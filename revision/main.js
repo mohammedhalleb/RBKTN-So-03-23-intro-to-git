@@ -4,7 +4,7 @@
 
 // *****************************  2  ***********************
 // Use comments to describe the correct data type of the following variables:
-var length = 16;
+var length = 20;
 
 var lastName = "Johnson"; 
 
