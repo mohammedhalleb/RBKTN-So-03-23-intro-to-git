@@ -1,14 +1,13 @@
 // *****************************  1  ***********************
 // Create a variable called carName, assign the value Volvo to it.
-
-
+var carname="volvo"
 // *****************************  2  ***********************
 // Use comments to describe the correct data type of the following variables:
-var length = 20;
+var length = 25 //intiger;
 
-var lastName = "Johnson"; 
+var lastName ="johnson"//string; 
 
-var isGreaterThan10 = length > 10;
+var isGreaterThan10 = length > 10//intiger;
 
 
 // *****************************  3  ***********************
@@ -18,12 +17,19 @@ func square1"x" {
 return x * x ; 
 } 
 
-functionsquare2 x) 
-return x * x ; 
+
+
+function square1(x) { 
+return (x * x) ; 
+} 
+
+
+function square2 x{ 
+return (x * x) ; 
 }
 
-function (x) square3 { 
-return x * x;
+function  square3(x) { 
+return(x * x);
 }
 
 
@@ -31,6 +37,14 @@ return x * x;
 // Write a JavaScript program that accept two integers and display the larger.
 function largest() {
   // TODO: your work goes here
+}function largest(1,2){
+  if(1>2)
+    return true
+  if(2>1)
+    return true
+  return false
+
+  
 }
 
 
