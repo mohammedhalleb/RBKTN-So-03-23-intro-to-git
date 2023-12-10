@@ -3,9 +3,7 @@
 var carname="volvo"
 // *****************************  2  ***********************
 // Use comments to describe the correct data type of the following variables:
-var length = 25 //intiger;
-
-var lastName ="johnson"//string; 
+var lastName 40="johnson"//string; 
 
 var isGreaterThan10 = length > 10//intiger;
 
